@@ -112,7 +112,6 @@ This project showcases an end-to-end Power BI dashboard designed to analyze cust
   <li>Subscription customers show higher engagement and consistency</li>
 </ul>
 
-<h2>🎨 Dashboard Preview</h2>
 
 <h2>🚀 What This Project Demonstrates</h2>
 <ul>
