@@ -1,4 +1,6 @@
 <h1>📊 Customer Behavior Dashboard – Power BI Portfolio Project</h1>
+<img src="https://github.com/madhusharma0622/Ecommerce-consumer-behaviour-dashboard/blob/main/Dashboard.png" alt="Dashboard Preview" width="800">
+
 
 <h2>📌 Project Overview</h2>
 <p>
