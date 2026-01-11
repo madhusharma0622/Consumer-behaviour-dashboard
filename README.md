@@ -33,7 +33,7 @@ This project showcases an end-to-end Power BI dashboard designed to analyze cust
 </ul>
 <p><em>(Dataset is simulated for portfolio purposes)</em></p>
 
-<h2>🔄 Step-by-Step Project Workflow (Recruiter View)</h2>
+<h2>🔄 Step-by-Step Project Workflow </h2>
 
 <h3>1️⃣ Data Import</h3>
 <ul>
@@ -118,12 +118,4 @@ This project showcases an end-to-end Power BI dashboard designed to analyze cust
   <li>✔ Hands-on experience with DAX & Power Query</li>
   <li>✔ Ability to convert raw data into executive-ready dashboards</li>
   <li>✔ Focus on business insights, not just visuals</li>
-</ul>
-
-<h2>📌 How Recruiters Can Use This</h2>
-<ul>
-  <li>Evaluate dashboarding and visualization skills</li>
-  <li>Assess real-world analytical thinking</li>
-  <li>Review DAX and data modeling approach</li>
-  <li>Validate ability to deliver stakeholder-focused insights</li>
 </ul>
